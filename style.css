@@ -1,0 +1,172 @@
+.head{
+    width:auto;
+    height:110px;
+    background-color:#ffffff; 
+}
+
+img{
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+figcaption{
+    color:red;
+    margin-left:-100px;
+    font-size:2em;
+    float:left;
+    margin-top:70px;
+}
+
+#header-names{
+    width:933px;
+    height:110px;
+    background-color:#ffffff;
+    margin-left:400px;
+    
+}
+
+ul{
+    float:right;
+    list-style-type:none;
+    margin-top:80px;
+}
+
+ul li{
+    display:inline-block;
+}
+
+ul li a{
+    text-decoration:none;
+    color:#333;
+    padding:5px 20px;
+}
+
+a:hover{
+    color:rgb(28, 28, 51);
+    cursor:pointer;
+}
+
+.side-box,.side-box4{
+    width:150px;
+    height:1100px;
+    background-color:#ebe6e6f2;
+    float:left;
+}
+.side-box2,.side-box3{
+    width:150px;
+    height:1100px;
+    background-color:#ffffff;
+    float:left;
+}
+
+.center-box{
+    width:732px;
+    height:1100px;
+    background-color:#ffffff;
+    float:left;
+}
+
+.book{
+    width:300px;
+    height:450px;
+    border-left:6px solid grey;
+    border-right:6px solid grey;
+}
+
+#heading{
+    margin-left:45%;
+}
+
+#heading1{
+    margin-left:45%;
+    margin-top:-20px;
+}
+
+i{
+    color:#f8b732;
+}
+
+h2{
+    margin-left:45%;
+    border-top:3px solid #ababab;
+    padding-top:15px;
+}
+
+s{
+    padding-left:20px;
+}
+
+.rate{
+    margin-left:71.5%;
+    margin-top: -20px;
+    color:#b53115;
+    font-size:1.8em;
+}
+
+h6{
+    margin-left:71.5%;
+    margin-top: -30px;
+    color:#b53115;
+    font-size:1em;    
+}
+
+button{
+    width:350px;
+    height:60px;
+    margin-left:3%;
+    margin-top:-15px;
+    font-size:1.5em;
+    padding-right: 25px;
+    word-spacing:5px;
+    background-color:#ec4b74;
+    border:none;
+    color:white;
+}
+
+h5{
+    border-bottom:5px solid #ababab;
+    margin-left:45%;
+}
+
+#para1{
+  margin-top:20%;
+  border-top:3px solid #ababab;
+  font-size:1em;
+  padding-top:20px;
+}
+
+.para2{
+    margin-top:-10px;
+    color:blue;
+    border-bottom:3px solid #ababab;
+    padding-bottom:20px;
+}
+
+.heading1{
+    padding-top:20px;
+    letter-spacing:5px;
+
+}
+
+.heading2{
+    font-size:1em;
+}
+
+.heading3{
+    border-top:3px solid #ababab;
+}
+
+.heading4{
+    padding-top:20px;
+    font-size:1.3em;
+}
+
+.para3{
+    margin-left:20px;
+    padding-bottom:20px;
+}
+
+.p{
+    border-bottom:3px solid #ababab;
+}
